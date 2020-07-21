@@ -282,12 +282,12 @@
                 </a>
               </li>
               <li>
-                <a href="" target="_blank">
+                <a href="https://www.linkedin.com/in/lucas-pupp-78328a1b3/" target="_blank">
                   <i class="fab fa-linkedin-in"></i>
                 </a>
               </li>
               <li>
-                <a href="" target="_blank">
+                <a href="https://github.com/Luupupp" target="_blank">
                   <i class="fab fa-github"></i>
                 </a>
               </li>
@@ -304,7 +304,7 @@
           <div class="redes">
             <ul>
               <li>
-                <a href="" target="_blank">
+                <a href="https://www.facebook.com/luh.prado.9212" target="_blank">
                   <i class="fab fa-facebook-f"></i>
                 </a>
               </li>
@@ -314,12 +314,17 @@
                 </a>
               </li>
               <li>
-                <a href="" target="_blank">
+                <a href="https://www.linkedin.com/in/luzia-aliunas-4b0618195/" target="_blank">
                   <i class="fab fa-linkedin-in"></i>
+
+
+                 
+
+
                 </a>
               </li>
               <li>
-                <a href="" target="_blank">
+                <a href="https://github.com/Luh01" target="_blank">
                   <i class="fab fa-github"></i>
                 </a>
               </li>
@@ -346,12 +351,12 @@
                 </a>
               </li>
               <li>
-                <a href="" target="_blank">
+                <a href="https://www.linkedin.com/mwlite/in/pedro-c-machado-57b2881b3" target="_blank">
                   <i class="fab fa-linkedin-in"></i>
                 </a>
               </li>
               <li>
-                <a href="" target="_blank">
+                <a href="https://github.com/PedroCardin" target="_blank">
                   <i class="fab fa-github"></i>
                 </a>
               </li>
