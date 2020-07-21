@@ -113,32 +113,32 @@
       </div>
       <div class="cards">
         <div class="ong">
-          <h3>ONG PET-NIMAL 1</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam consequuntur expedita doloribus, quaerat voluptates saepe debitis necessitatibus modi fugiat consectetur, repellat nobis laborum et iste nam quos dolor eligendi ipsum?</p>
+          <h3>Anjos Peludos</h3>
+          <p>A ONG Anjos Peludos nasceu da união de protetores individuais e amantes da causa animal, que já atuavam há mais de cinco anos no segmento. O intuito era dar melhor qualidade de vida aos animais abandonados, bem como realizar outras ações visando o bem estar animal.</p>
         </div>
         <div class="ong">
-          <h3>ONG PET-NIMAL 2</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam consequuntur expedita doloribus, quaerat voluptates saepe debitis necessitatibus modi fugiat consectetur, repellat nobis laborum et iste nam quos dolor eligendi ipsum?</p>
+          <h3>Amigo Animal</h3>
+          <p>A Associação do Amigo Animal foi fundada por voluntários a partir da necessidade de dar sustentação material ao trabalho e com o objetivo de buscar, através da criação de legislação específica ou de implementação da já vigente, melhores condições de vida para os animais que vivem nas cidades, vítimas do abandono ou maus tratos.</p>
         </div>
         <div class="ong">
-          <h3>ONG PET-NIMAL 3</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam consequuntur expedita doloribus, quaerat voluptates saepe debitis necessitatibus modi fugiat consectetur, repellat nobis laborum et iste nam quos dolor eligendi ipsum?</p>
+          <h3>Cão Help</h3>
+          <p>A Cão nasceu de um grande sonho do seu atual presidente: tirar o maior número possível de animais das ruas, dar tratamento adequado e integrá-los a famílias que lhes deem amor, carinho e uma vida digna. Mas, chegar até aqui, não foi fácil. Há sete anos atrás, em 2005, o que era sonho começou a se tornar realidade.</p>
         </div>
         <div class="ong">
-          <h3>ONG PET-NIMAL 4</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam consequuntur expedita doloribus, quaerat voluptates saepe debitis necessitatibus modi fugiat consectetur, repellat nobis laborum et iste nam quos dolor eligendi ipsum?</p>
+          <h3>AACB - ONG</h3>
+          <p>AACB foca no resgate e reabilitação de animais em risco, que são vítimas de abandono e maus tratos. São reabilitados, vacinados e castrados e seguem para adoção responsável através de nossos eventos de adoção, redes sociais e contatos.</p>
         </div>
         <div class="ong">
-          <h3>ONG PET-NIMAL 5</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam consequuntur expedita doloribus, quaerat voluptates saepe debitis necessitatibus modi fugiat consectetur, repellat nobis laborum et iste nam quos dolor eligendi ipsum?</p>
+          <h3>Patinhas Unidas</h3>
+          <p>Nossa ONG nasceu com intenções claras de resgate, castração e doação de animais. Nos empenhamos em abrigar poucos, socorrer vários e castrar MUITOS, pois a castração é a única solução ao problema estrutural da procriação de animais abandonados. Nossa ONG é formada por profissionais liberais, gente comum que trabalha, estuda, enfim, vive!</p>
         </div>
         <div class="ong">
-          <h3>ONG PET-NIMAL 6</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam consequuntur expedita doloribus, quaerat voluptates saepe debitis necessitatibus modi fugiat consectetur, repellat nobis laborum et iste nam quos dolor eligendi ipsum?</p>
+          <h3>Miados e Latidos</h3>
+          <p>A Miados e Latidos foi fundada por voluntários a partir da necessidade de dar sustentação material ao trabalho e com o objetivo de buscar, através da criação de legislação específica ou de implementação da já vigente, melhores condições de vida para os animais que vivem nas cidades, vítimas do abandono ou maus tratos.</p>
         </div>
         <div class="ong">
-          <h3>ONG PET-NIMAL 7</h3>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam consequuntur expedita doloribus, quaerat voluptates saepe debitis necessitatibus modi fugiat consectetur, repellat nobis laborum et iste nam quos dolor eligendi ipsum?</p>
+          <h3>Gatopoles</h3>
+          <p>A Gatópoles - Adoção de Gatinhos é uma ONG (Organização Não Governamental), com sede em São Paulo (SP), tem como objetivo encaminhar para famílias responsáveis gatos retirados das mais diversas situações de risco.</p>
         </div>
       </div>
 
@@ -162,81 +162,80 @@
     <div class="container mt cadastrados">
       <div class="casos-cadastrados">
         <div class="cards-casos">
-          <h3>Caiu a orelha do Dog</h3>
+          <h3>Caso Thor</h3>
           <p class="descricao">
             <strong>Descrição:</strong>
-            <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quis illum consequatur commodi? Vel quos, numquam qui similique, accusantium at ullam magnam delectus alias rem, voluptas labore veniam temporibus velit!</span>
+            <span>Fui atropelado por um caminhão e levado para uma clínica, onde fui abandonado. Passei por diversas cirurgias, onde acabei perdendo uma das patas, precisarei receber certos cuidados, necessito de ajuda.</span>
           </p>
           <p class="nome-ong">
             <strong>ONG:</strong>
-            <span>PET-NIMAL</span>
+            <span>Amigo Animal</span>
           </p>
-          <h4></h4>
         </div>
 
         <div class="cards-casos">
-          <h3>Caiu a orelha do Dog</h3>
+          <h3>Caso Julie</h3>
           <p class="descricao">
             <strong>Descrição:</strong>
-            <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quis illum consequatur commodi? Vel quos, numquam qui similique, accusantium at ullam magnam delectus alias rem, voluptas labore veniam temporibus velit!</span>
+            <span>Oii, meu nome é Julie, fui resgatada de maus-tratos, tenho porte médio, sou castrada, vacinada e vermiculada.</span>
           </p>
           <p class="nome-ong">
             <strong>ONG:</strong>
-            <span>PET-NIMAL</span>
+            <span>Amigo Animal</span>
           </p>
-          <h4></h4>
+          
         </div>
 
         <div class="cards-casos">
-          <h3>Caiu a orelha do Dog</h3>
+          <h3>Caso Bob</h3>
           <p class="descricao">
             <strong>Descrição:</strong>
-            <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quis illum consequatur commodi? Vel quos, numquam qui similique, accusantium at ullam magnam delectus alias rem, voluptas labore veniam temporibus velit!</span>
+            <span>Sofri muito vivendo nas ruas amarrado em uma corrente, causando ferimentos por todo o meu corpo além de ter ficado sob o sol forte e a chuva.</span>
           </p>
           <p class="nome-ong">
             <strong>ONG:</strong>
-            <span>PET-NIMAL</span>
+            <span>Cão Help</span>
           </p>
-          <h4></h4>
+          
         </div>
 
         <div class="cards-casos">
-          <h3>Caiu a orelha do Dog</h3>
+          <h3>Caso Theo</h3>
           <p class="descricao">
             <strong>Descrição:</strong>
-            <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quis illum consequatur commodi? Vel quos, numquam qui similique, accusantium at ullam magnam delectus alias rem, voluptas labore veniam temporibus velit!</span>
+            <span>Olá, sou o Theo, fui resgatado de maus-tratos, vítima do meu antigo tutor. Hoje estou com ferimentos no meu quadril e no meu olho esquerdo.</span>
           </p>
           <p class="nome-ong">
             <strong>ONG:</strong>
-            <span>PET-NIMAL</span>
+            <span>Cão Help</span>
           </p>
-          <h4></h4>
+          
         </div>
 
         <div class="cards-casos">
-          <h3>Caiu a orelha do Dog</h3>
+          <h3>Caso Billy</h3>
           <p class="descricao">
             <strong>Descrição:</strong>
-            <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quis illum consequatur commodi? Vel quos, numquam qui similique, accusantium at ullam magnam delectus alias rem, voluptas labore veniam temporibus velit!</span>
+            <span>Olá, sou o Billy. Fui encontrado ainda pequeno na estrada com meus irmãos, estávamos todos amarrados e desidratados, fomos resgatados mas necessitamos de cuidados.</span>
           </p>
           <p class="nome-ong">
             <strong>ONG:</strong>
-            <span>PET-NIMAL</span>
+            <span>AACB - ONG</span>
           </p>
-          <h4></h4>
+          
         </div>
 
         <div class="cards-casos">
-          <h3>Caiu a orelha do Dog</h3>
+          <h3>Caso Lara</h3>
           <p class="descricao">
             <strong>Descrição:</strong>
-            <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique quis illum consequatur commodi? Vel quos, numquam qui similique, accusantium at ullam magnam delectus alias rem, voluptas labore veniam temporibus velit!</span>
+            <span>Olá, sou a Lara. Fui vítima de maus-tratos e fiquei paraplégica, mas fui resgatada pela AACB. Faço acupuntura 1x por semana, fisioterapia e exames regularmente, porém necessito de verba para pagar todos os cuidados.</span>
           </p>
           <p class="nome-ong">
             <strong>ONG:</strong>
-            <span>PET-NIMAL</span>
+            <span>AACB - ONG</span>
           </p>
-          <h4></h4>
+          
         </div>
       </div>
     </div>
@@ -268,7 +267,7 @@
             <img src="/img/lucas.jpg" alt="Lucas da Silva Pupp Gay">
           </div>
           <div class="nome">
-            <h3>Lucas da Silva Pupp</h3>
+            <h3>Lucas Pupp</h3>
           </div>
           <div class="redes">
             <ul>
